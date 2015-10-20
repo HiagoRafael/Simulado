@@ -1,0 +1,56 @@
+.rc{
+	margin:0 auto;
+	height: 200px;
+	width: 80%;
+	background-color:green;
+	border-radius:10px;
+	vertical-align:middle;
+}
+.re{
+	margin: 0 auto;
+	height: 200px;
+	width: 80%;
+	background-color:red;
+	border-radius:10px;
+}
+
+.pergunta{
+	color:white;
+}
+
+.correcao{
+	position:relative;
+	top:80px;
+	font-size:20px;
+	color:white;
+}
+
+.nota{
+	position:relative;
+	top:50px;
+	font-size:100px;
+	color:white;
+}
+
+#div-principal{
+	position: absolute;
+	top: 30%;
+	left: 20%;
+	border:5px solid;
+	border-color:black;
+	width:60%;
+	padding:10px;
+	border-radius:5px;
+}
+
+#pont{
+	margin-top:10px;
+	font-size:80px;
+	background-color:gray;
+	padding:50px;
+	color:white;
+}
+
+.alternativa{
+	
+}
